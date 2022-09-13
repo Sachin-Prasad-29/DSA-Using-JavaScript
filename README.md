@@ -21,3 +21,12 @@ search - O(n);
 push/pop -O(1);
 shift/unshift/concat/slice/splice - O(n);
 forEach/map/filter/reduce -O(n)
+
+
+
+## Algorithm design techniques
+1. Brute force
+2. Greedy
+3. Divide and Conquer
+4. Dynamic Programming
+5. Backtracking
