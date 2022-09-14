@@ -25,3 +25,5 @@ console.log(arr);
 // insert, remove, access - o(1)
 // search -O(1)
 //Object.keys .values . entries - o(n)
+// This is the best thing in the world and I will I will
+// This is the best thing in the world and I will be the best thing inh
