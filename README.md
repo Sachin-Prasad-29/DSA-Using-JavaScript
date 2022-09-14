@@ -30,3 +30,19 @@ forEach/map/filter/reduce -O(n)
 3. Divide and Conquer
 4. Dynamic Programming
 5. Backtracking
+
+
+## Buit in data structures Of JavaScript
+1. Arrays
+2. Objects
+3. Sets
+4. Maps
+
+## Custom data structures
+1. Stacks
+2. Queue 
+3. Circular Queue
+4. Linked List
+5. Hash Tables
+6. Trees
+7. Graphs
